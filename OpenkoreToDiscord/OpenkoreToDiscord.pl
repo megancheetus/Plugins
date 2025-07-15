@@ -3,12 +3,11 @@ package OpenkoreToDiscord;
 # ====================================================================
 # Plugin OpenkoreToDiscord
 #
-# Autor: Doc e Sonic com revisão do GPT e Gemini
+# Autor: Doc (megancheetus) e Sonic com revisão;
 # Data da Versão: 11 de Julho de 2025
 #
 # Descrição:
-# Este plugin envia notificações ricas e detalhadas das atividades
-# do OpenKore para um canal do Discord via Webhook. 
+# Este plugin envia notificações ricas e detalhadas das atividades  do OpenKore para um canal do Discord via Webhook. 
 # ====================================================================
 
 use strict;
